@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 from models import CustomModel
 
-PATH = './data/test-images'
+PATH = 'data/correct-images'
 
 def single_recognition(images):
     images_to_predict = []

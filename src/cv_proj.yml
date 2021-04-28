@@ -1,4 +1,4 @@
-name: cs6476_final_5
+name: cs6476_final
 channels:
   - pytorch
   - anaconda
